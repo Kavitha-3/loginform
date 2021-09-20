@@ -1,0 +1,116 @@
+body{
+   
+    background-image: linear-gradient(to right,rgb(9, 150, 84),rgb(2, 210, 247));
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+    
+    background-size: cover;
+
+
+}
+.login{
+    background-color:rgb(3, 73, 73);
+        color:white;
+    margin:auto;
+   width: 600px;
+   height: 50px;
+   font-size: 30px;
+   padding-top: 10px;
+   padding-bottom: 0px;
+   text-align: center;
+
+}
+.c1{
+    background-color: white;
+    width: 600px;
+    height:300px;
+    margin:auto;
+    padding-top: 25px;
+    
+}  
+.name{
+   
+margin-left: 150px;
+
+font-size: 18px;
+}
+.name1{
+    margin-left:120px ;
+    font-size: 18px;
+}
+.txt{
+    width: 200px;
+    height:20px;
+    margin-left: 30px;
+    border-color: black;
+    border-width: 2px;
+    
+}
+.email{
+    width:200px;
+    height:20px;
+    margin-left: 20px;
+    border-color: black;
+    border-width: 2px;
+}
+.pwd{
+    width:200px;
+    height:20px;
+    margin: left 8px; 
+    border-color: black;
+    border-width: 2px;
+}
+.txt1{
+    width: 200px;
+    height:20px;
+    margin-left: 100px;
+    border-color: black;
+    border-width: 2px;
+}
+.email1{
+    width: 200px;
+    height:20px;
+    margin-left: 92px;
+    border-color: black;
+    border-width: 2px;
+}
+.pwd1{
+    width: 200px;
+    height:20px;
+    margin-left: 75px;
+    border-color: black;
+    border-width: 2px;
+}
+.cpwd{
+    width: 200px;
+    height:20px;
+    margin-left: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+
+button{
+    color:black;
+    background-image: linear-gradient(to right,rgb(9, 150, 84),rgb(2, 210, 247));
+
+     font-weight: bold;
+    width: 250px;
+    text-align: center;
+    margin-top: 27px;
+    margin-left:170px ;
+    font-size: 18px;
+    border-width: 1px;
+    border-color: black;
+    padding: 2px;
+   
+    
+
+}
+.signup{
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+.signup label a{
+    color:navy;
+}
